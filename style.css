@@ -1,0 +1,71 @@
+/* style.css */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f7fa;
+    color: #1e1e1e;
+}
+
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+h1 {
+    color: #2c3e50;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #3498db;
+    margin-bottom: 2rem;
+}
+
+.stButton>button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    margin: 0.5rem 0;
+    cursor: pointer;
+    border-radius: 0.3rem;
+    transition: background-color 0.3s ease;
+}
+
+.stButton>button:hover {
+    background-color: #2980b9;
+}
+
+.stTextInput>div>div>input {
+    border-radius: 0.3rem;
+}
+
+.stSelectbox>div>div>select {
+    border-radius: 0.3rem;
+}
+
+.stDataFrame {
+    border: 1px solid #e0e0e0;
+    border-radius: 0.3rem;
+    overflow: hidden;
+}
+
+.stPlotlyChart {
+    border: 1px solid #e0e0e0;
+    border-radius: 0.3rem;
+    padding: 1rem;
+    background-color: white;
+}
+
+.css-1v3fvcr {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 0.3rem;
+}
