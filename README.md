@@ -1,8 +1,8 @@
-# LLM-Powered Dashboard Generator
+# Smart_Dashboard
 
 ## Overview
 
-The LLM-Powered Dashboard Generator is a Streamlit-based web application that uses Large Language Models (LLMs) to analyze data and automatically generate insightful visualizations. This tool allows users to upload CSV files, select data columns for visualization, and receive AI-generated analysis of their data.
+Smart_Dashboard consist  of LLM-Powered Dashboard Generator is a Streamlit-based web application that uses Large Language Models (LLMs) to analyze data and automatically generate insightful visualizations. This tool allows users to upload CSV files, select data columns for visualization, and receive AI-generated analysis of their data.
 
 ## Features
 
@@ -40,14 +40,7 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-```
-Smart_Dashboard/
-├── app.py
-├── style.css
-├── .env
-├── requirements.txt
-└── README.md
-```
+
 
 ## Customization
 
@@ -59,7 +52,7 @@ Contributions to the LLM-Powered Dashboard Generator are welcome. Please feel fr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License feel free to modified it - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
