@@ -11,6 +11,7 @@ Smart_Dashboard consist  of LLM-Powered Dashboard Generator is a Streamlit-based
 - Dynamic visualization generation (bar, line, and scatter plots)
 - Interactive dashboard with customizable charts
 - Responsive design for various screen sizes
+![image](https://github.com/user-attachments/assets/d5fa2888-b840-4b16-850d-cfca195599ef)
 
 ## Prerequisites
 
@@ -45,6 +46,7 @@ streamlit run app.py
 ## Customization
 
 You can customize the app's appearance by modifying the `style.css` file. The main application logic is contained in `app.py`, which you can edit to add new features or modify existing functionality.
+![image](https://github.com/user-attachments/assets/6ffe9fc9-992d-4947-a521-9686dc89c794)
 
 ## Contributing
 
