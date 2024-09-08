@@ -46,7 +46,8 @@ streamlit run app.py
 ## Customization
 
 You can customize the app's appearance by modifying the `style.css` file. The main application logic is contained in `app.py`, which you can edit to add new features or modify existing functionality.
-![image](https://github.com/user-attachments/assets/6ffe9fc9-992d-4947-a521-9686dc89c794)
+![Capture](https://github.com/user-attachments/assets/7fc828a5-f3d6-4ccb-85a0-22d2199c621b)
+
 
 ## Contributing
 
