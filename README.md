@@ -13,6 +13,7 @@ Smart_Dashboard consist  of LLM-Powered Dashboard Generator is a Streamlit-based
 - Responsive design for various screen sizes
 ![image](https://github.com/user-attachments/assets/d5fa2888-b840-4b16-850d-cfca195599ef)
 
+![Capture](https://github.com/user-attachments/assets/7fc828a5-f3d6-4ccb-85a0-22d2199c621b)
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -46,7 +47,7 @@ streamlit run app.py
 ## Customization
 
 You can customize the app's appearance by modifying the `style.css` file. The main application logic is contained in `app.py`, which you can edit to add new features or modify existing functionality.
-![Capture](https://github.com/user-attachments/assets/7fc828a5-f3d6-4ccb-85a0-22d2199c621b)
+
 
 
 ## Contributing
