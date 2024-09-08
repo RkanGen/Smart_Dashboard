@@ -5,6 +5,9 @@ import groq
 from dotenv import load_dotenv
 import os
 
+# Set page config at the very beginning
+st.set_page_config(page_title="LLM Dashboard Generator", layout="wide")
+
 # Load environment variables
 load_dotenv()
 
@@ -49,8 +52,6 @@ def create_visualization(data, viz_type, x_axis, y_axis):
     return fig
 
 load_css()
-
-st.set_page_config(page_title="LLM Dashboard Generator", layout="wide")
 
 st.title("LLM-Powered Dashboard Generator")
 
